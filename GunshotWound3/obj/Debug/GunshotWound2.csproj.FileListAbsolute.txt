@@ -1,0 +1,2 @@
+C:\Users\green groo\Documents\GitHub\GSW3-Remastered\GunshotWound2\obj\Debug\GunshotWound2.csproj.AssemblyReference.cache
+C:\Users\green groo\Documents\GitHub\GSW3-Remastered\GunshotWound2\obj\Debug\GunshotWound2.csproj.CoreCompileInputs.cache

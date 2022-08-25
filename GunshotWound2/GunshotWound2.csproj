@@ -35,6 +35,9 @@
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="ScriptHookVDotNet2">
+      <HintPath>..\..\..\..\Desktop\ScriptHookVDotNet2.dll</HintPath>
+    </Reference>
     <Reference Include="ScriptHookVDotNet3, Version=3.1.0.0, Culture=neutral, PublicKeyToken=null">
       <HintPath>..\packages\ScriptHookVDotNet3.3.1.0\lib\net48\ScriptHookVDotNet3.dll</HintPath>
       <Private>True</Private>
@@ -158,6 +161,9 @@
     <Compile Include="Utils\RandomExtensions.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="..\.editorconfig">
+      <Link>.editorconfig</Link>
+    </None>
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
